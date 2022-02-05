@@ -3,5 +3,5 @@
 
 The script [pyclub_demo.py](code/scripts/pyclub_demo.py) illustrates the use of this API. All functions of the API are located at [apy.py](code/src/aeon/preprocess/api.py). Please refer to [requirements.txt](requirements.txt) for the dependencies required to run this code.
 
-Please download a zip file containing the data required to run the previous script from [here](http://www.gatsby.ucl.ac.uk/~rapela/pyclub021522/data.zip) and unzip it in the root directory of the repository.
+Please download this [zip](http://www.gatsby.ucl.ac.uk/~rapela/pyclub021522/data.zip) file containing the data required to run the previous script, and unzip it in the root directory of your repository.
 
